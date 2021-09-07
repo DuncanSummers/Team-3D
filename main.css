@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+}
+.member {
+    width: 30%;
+    background-color: white;
+}
+
+body {
+    background-color: aquamarine;
+}
